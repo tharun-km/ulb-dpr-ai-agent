@@ -1,0 +1,60 @@
+{
+  "state": "chhattisgarh",
+  "ppp_guidelines": {
+    "water_supply": {
+      "tariff_approval_process": "State-level approval required",
+      "regulatory_body": "Chhattisgarh State Water and Sanitation Mission",
+      "compliance_requirements": [
+        "State PPP policy compliance",
+        "Environmental clearances",
+        "Public consultation mandatory"
+      ]
+    },
+    "solid_waste": {
+      "tariff_approval_process": "ULB-level with state oversight",
+      "regulatory_body": "Urban Administration Department",
+      "compliance_requirements": [
+        "SWM Rules 2016",
+        "State solid waste management policy"
+      ]
+    },
+    "urban_transport": {
+      "tariff_approval_process": "State transport authority",
+      "regulatory_body": "Transport Department",
+      "compliance_requirements": [
+        "Motor Vehicles Act",
+        "State transport policy"
+      ]
+    },
+    "streetlight": {
+      "tariff_approval_process": "ULB-level",
+      "regulatory_body": "Urban Administration Department",
+      "compliance_requirements": [
+        "Energy efficiency standards",
+        "ULB procurement rules"
+      ]
+    }
+  },
+  "successful_cases": {
+    "raipur": {
+      "sector": "solid_waste",
+      "model": "Integrated solid waste management PPP",
+      "key_factors": [
+        "Clear service level agreements",
+        "Adequate revenue streams",
+        "Community participation"
+      ]
+    },
+    "bilaspur": {
+      "sector": "area_development",
+      "model": "Large area development PPP",
+      "key_factors": [
+        "State support",
+        "Clear project scope",
+        "Financial viability"
+      ]
+    }
+  }
+}
+
+

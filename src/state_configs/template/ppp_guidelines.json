@@ -1,0 +1,40 @@
+{
+  "state": "template",
+  "ppp_guidelines": {
+    "water_supply": {
+      "tariff_approval_process": "State-specific process",
+      "regulatory_body": "State water authority",
+      "compliance_requirements": [
+        "State PPP policy",
+        "Environmental clearances",
+        "Public consultation"
+      ]
+    },
+    "solid_waste": {
+      "tariff_approval_process": "ULB-level with state oversight",
+      "regulatory_body": "Urban Administration Department",
+      "compliance_requirements": [
+        "SWM Rules 2016",
+        "State solid waste management policy"
+      ]
+    },
+    "urban_transport": {
+      "tariff_approval_process": "State transport authority",
+      "regulatory_body": "Transport Department",
+      "compliance_requirements": [
+        "Motor Vehicles Act",
+        "State transport policy"
+      ]
+    },
+    "streetlight": {
+      "tariff_approval_process": "ULB-level",
+      "regulatory_body": "Urban Administration Department",
+      "compliance_requirements": [
+        "Energy efficiency standards",
+        "ULB procurement rules"
+      ]
+    }
+  }
+}
+
+

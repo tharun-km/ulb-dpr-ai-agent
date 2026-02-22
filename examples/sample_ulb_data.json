@@ -1,0 +1,37 @@
+{
+  "ulb_name": "Sample ULB",
+  "state": "chhattisgarh",
+  "population": 75000,
+  "category": "class_ii",
+  "existing_infrastructure": {
+    "water_supply": {
+      "coverage": 60,
+      "treatment_capacity": 50,
+      "distribution_network": "partial"
+    },
+    "solid_waste": {
+      "collection_coverage": 70,
+      "processing_facility": false,
+      "disposal_method": "open_dumping"
+    },
+    "urban_transport": {
+      "public_transport": "limited",
+      "buses": 20,
+      "routes": 5
+    },
+    "streetlight": {
+      "coverage": 80,
+      "led_conversion": 30,
+      "total_lights": 5000
+    }
+  },
+  "financial_status": {
+    "annual_revenue": 50000000,
+    "annual_expenditure": 45000000,
+    "debt": 10000000,
+    "credit_rating": "not_rated",
+    "has_audited_accounts": true
+  }
+}
+
+

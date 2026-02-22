@@ -1,0 +1,40 @@
+{
+  "total_ulbs": 192,
+  "categories": {
+    "municipal_corporations": 14,
+    "municipal_councils": 54,
+    "nagar_panchayats": 124
+  },
+  "ppp_experience": {
+    "ulbs_with_ppp": ["Raipur", "Bilaspur"],
+    "total_with_ppp": 2,
+    "sectors": ["solid_waste", "area_development"]
+  },
+  "key_ulbs": {
+    "raipur": {
+      "category": "municipal_corporation",
+      "population": 1010000,
+      "ppp_experience": true,
+      "sectors": ["solid_waste"]
+    },
+    "bilaspur": {
+      "category": "municipal_corporation",
+      "population": 450000,
+      "ppp_experience": true,
+      "sectors": ["area_development"]
+    },
+    "durg": {
+      "category": "municipal_corporation",
+      "population": 320000,
+      "ppp_experience": false,
+      "note": "Water PPP attempted but faced challenges"
+    }
+  },
+  "capacity_gaps": {
+    "town_planners": "70% ULBs lack qualified planners",
+    "engineers": "70% ULBs lack qualified engineers",
+    "financial_expertise": "Limited capacity for financial modeling"
+  }
+}
+
+

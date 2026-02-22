@@ -1,0 +1,52 @@
+{
+  "raipur_solid_waste": {
+    "ulb": "Raipur",
+    "sector": "solid_waste",
+    "project_name": "Integrated Solid Waste Management PPP",
+    "status": "successful",
+    "key_success_factors": [
+      "Clear service level agreements",
+      "Adequate revenue streams from user charges",
+      "Strong community participation",
+      "Effective monitoring mechanisms"
+    ],
+    "financial_model": {
+      "project_cost": 150000000,
+      "revenue_model": "User charges + processing fees",
+      "viability": "Self-sustaining"
+    },
+    "lessons_learned": [
+      "Community engagement is critical",
+      "Clear SLAs prevent disputes",
+      "Adequate revenue streams essential"
+    ],
+    "replicability": "high",
+    "suitable_for": ["class_i", "class_ii"]
+  },
+  "bilaspur_area_development": {
+    "ulb": "Bilaspur",
+    "sector": "area_development",
+    "project_name": "Large Area Development PPP",
+    "status": "successful",
+    "key_success_factors": [
+      "State government support",
+      "Clear project scope",
+      "Financial viability",
+      "Stakeholder alignment"
+    ],
+    "financial_model": {
+      "project_cost": 500000000,
+      "revenue_model": "Land development + user charges",
+      "viability": "Profitable"
+    },
+    "lessons_learned": [
+      "State support crucial for large projects",
+      "Clear scope prevents scope creep",
+      "Stakeholder alignment essential"
+    ],
+    "replicability": "medium",
+    "suitable_for": ["class_i"]
+  }
+}
+
+
