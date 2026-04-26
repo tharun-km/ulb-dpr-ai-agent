@@ -9,7 +9,7 @@ pydantic-settings>=2.0.0
 
 # Document generation
 markdown>=3.4.0
-pypandoc>=1.11.0
+pypandoc>=1.17
 
 # RAG and context engineering
 langchain>=0.1.0
